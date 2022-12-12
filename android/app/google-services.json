@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "780129394720",
+    "project_id": "easyatm-346b3",
+    "storage_bucket": "easyatm-346b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780129394720:android:e5d8d382d860e49766dc45",
+        "android_client_info": {
+          "package_name": "com.example.demo_eazy_atm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780129394720-ags6crsl3j6ktosephv0a921vcdgd679.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.demo_eazy_atm",
+            "certificate_hash": "8ee45bdfe7d86ca66949ce652672e274bbcb42dd"
+          }
+        },
+        {
+          "client_id": "780129394720-fhusvus63s88o0khf8kh235nsmh7i8fo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmuPRBvIZpW5H80UEk42X_GBt_1AmBl-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780129394720-fhusvus63s88o0khf8kh235nsmh7i8fo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
